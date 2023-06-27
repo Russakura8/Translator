@@ -1,0 +1,37 @@
+int b;
+
+int func(int x){
+return x * x;}
+
+int a;
+int main(){
+ int c, d, i;
+ in a;
+ in b;
+ in c;
+ in d;
+ i = func(i);
+
+ switch (i++ + 3 * d){
+  
+
+ case 0: {
+
+ while (!a == 0){
+ a = a + 1;}
+ }
+
+ default: {
+ for (i = 0; i < d; ++i){
+ c = c * c;
+ }
+ }
+ 
+ case 98: {
+ if(b == 0){
+ out "b is zero";}
+ else{
+ out b + 1;}}
+ }
+ 
+ }
